@@ -3,7 +3,7 @@
 #Usage of script... 
 #Syntax
 #bash git.sh username access_token
-
+#script requires username and access_token from github
 
 USER=$1
 GITHUB_TOKEN=$2
